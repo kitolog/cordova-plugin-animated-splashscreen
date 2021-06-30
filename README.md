@@ -111,3 +111,5 @@ XXXHDPI:
  - 1.0.8 - updated Android theme
  - 1.1.0 - stable version with iOS and Android support
  - 1.1.2 - Android image paths fixes
+
+Appelian, 2015
